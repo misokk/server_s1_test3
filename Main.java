@@ -4,5 +4,6 @@ public class Main {
 
         World.run();
         Hello.run();
+        World.run2();
     } 
 } 
