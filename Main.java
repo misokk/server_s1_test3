@@ -3,5 +3,6 @@ public class Main {
         System.out.println("강미소"); 
 
         World.run();
+        World.run2();
     } 
 } 
